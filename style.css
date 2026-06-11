@@ -45,6 +45,18 @@ button{
     border-radius:5px;
     cursor:pointer;
 }
+    nav{
+    text-align:center;
+    padding:10px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:0 15px;
+    font-size:18px;
+    font-weight:bold;
+}
 .card img{
     width:100%;
     border-radius:8px;
